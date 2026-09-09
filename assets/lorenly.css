@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+  background-color: #141110;
+}
+
+.font-serif,
+h1.font-serif,
+[class*="font-serif"] {
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+::selection {
+  background-color: #ff5a4e;
+  color: #141110;
+}

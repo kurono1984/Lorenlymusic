@@ -1,0 +1,1079 @@
+{
+  "version": 4,
+  "app_title": "Migración de Lorenly Music a Reflex",
+  "nav": {
+    "placement": "none",
+    "items": []
+  },
+  "pages": [
+    {
+      "id": "page-58b87690",
+      "name": "Inicio",
+      "route": "/",
+      "item_ref": {
+        "index": 0,
+        "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+      },
+      "blocks": [
+        {
+          "id": "home-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Biografía, Música, Luminus Hearts, Multimedia, Productora VOCALOID, Servicios, Tienda, Voicebank y Ko-fi",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-portrait",
+          "type": "image",
+          "label": "Retrato principal de Lorenly",
+          "hint": "Fotografía protagonista sobre fondo coral",
+          "x": 0,
+          "y": 1,
+          "w": 7,
+          "h": 6,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-title",
+          "type": "text",
+          "label": "Lorenly – Página Oficial",
+          "hint": "Silvana Navarro, compositora y letrista",
+          "x": 7,
+          "y": 1,
+          "w": 5,
+          "h": 2,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-bio-hero",
+          "type": "hero",
+          "label": "Biografía",
+          "hint": "Franja escénica negra y roja con imagen musical",
+          "x": 0,
+          "y": 7,
+          "w": 12,
+          "h": 3,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-award",
+          "type": "text",
+          "label": "Premio MIKU EXPO",
+          "hint": "Mención honorífica y canción ¡Ven, Reina!",
+          "x": 0,
+          "y": 10,
+          "w": 7,
+          "h": 3,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-award-audio",
+          "type": "text",
+          "label": "Reproductor destacado",
+          "hint": "SoundCloud de ¡Ven, Reina!",
+          "x": 7,
+          "y": 3,
+          "w": 5,
+          "h": 3,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-career-images",
+          "type": "image",
+          "label": "Trayectoria fotográfica",
+          "hint": "Retratos y actuaciones de la artista",
+          "x": 7,
+          "y": 10,
+          "w": 5,
+          "h": 5,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-biography",
+          "type": "text",
+          "label": "Biografía cronológica",
+          "hint": "Historia artística y producción VOCALOID",
+          "x": 0,
+          "y": 13,
+          "w": 7,
+          "h": 5,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-featured-media",
+          "type": "video",
+          "label": "Obras destacadas",
+          "hint": "Video Clavelina y audio Inmensidad",
+          "x": 0,
+          "y": 18,
+          "w": 12,
+          "h": 4,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-footer",
+          "type": "footer",
+          "label": "Contacto y redes",
+          "hint": "Teléfono, WhatsApp, correo, SoundCloud, Ko-fi y privacidad",
+          "x": 0,
+          "y": 22,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-e86b49d0",
+      "name": "Política de privacidad",
+      "route": "/privacy-policy",
+      "item_ref": {
+        "index": 0,
+        "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+      },
+      "blocks": [
+        {
+          "id": "privacy-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "privacy-title",
+          "type": "text",
+          "label": "Política de privacidad",
+          "hint": "Título legal y fecha de actualización",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "privacy-content",
+          "type": "text",
+          "label": "Contenido de privacidad",
+          "hint": "Tratamiento de datos, servicios externos y contacto",
+          "x": 0,
+          "y": 3,
+          "w": 8,
+          "h": 7,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "privacy-contact",
+          "type": "text",
+          "label": "Contacto",
+          "hint": "Correo y accesos rápidos",
+          "x": 8,
+          "y": 3,
+          "w": 4,
+          "h": 4,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "privacy-footer",
+          "type": "footer",
+          "label": "Pie legal",
+          "hint": "Copyright y navegación secundaria",
+          "x": 0,
+          "y": 10,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 0,
+            "text": "Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-d728d5fa",
+      "name": "Música",
+      "route": "/musica",
+      "item_ref": {
+        "index": 1,
+        "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+      },
+      "blocks": [
+        {
+          "id": "music-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "music-title",
+          "type": "image",
+          "label": "Catálogo musical",
+          "hint": "Canciones e instrumentales de Lorenly",
+          "x": 0,
+          "y": 1,
+          "w": 8,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "music-filter",
+          "type": "form",
+          "label": "Buscar y filtrar",
+          "hint": "Búsqueda por título y filtros Instrumental, Cantautora y VocaloP",
+          "x": 8,
+          "y": 1,
+          "w": 4,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "music-instrumental",
+          "type": "list",
+          "label": "Instrumentales",
+          "hint": "Listado completo de obras instrumentales",
+          "x": 0,
+          "y": 3,
+          "w": 4,
+          "h": 8,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "music-songwriter",
+          "type": "list",
+          "label": "Como cantautora",
+          "hint": "Listado completo de composiciones propias",
+          "x": 4,
+          "y": 3,
+          "w": 4,
+          "h": 8,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "music-vocalop",
+          "type": "list",
+          "label": "Como VocaloP",
+          "hint": "Listado completo de canciones VOCALOID",
+          "x": 8,
+          "y": 3,
+          "w": 4,
+          "h": 8,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "music-footer",
+          "type": "footer",
+          "label": "Contacto y redes",
+          "hint": "WhatsApp, correo, Ko-fi y enlaces musicales",
+          "x": 0,
+          "y": 11,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-1df0ab33",
+      "name": "Canciones",
+      "route": "/canciones",
+      "item_ref": {
+        "index": 1,
+        "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+      },
+      "blocks": [
+        {
+          "id": "songs-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "songs-title",
+          "type": "text",
+          "label": "Canciones",
+          "hint": "Selección audiovisual de Lorenly",
+          "x": 0,
+          "y": 1,
+          "w": 8,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "songs-filter",
+          "type": "form",
+          "label": "Filtro de videos",
+          "hint": "Buscar por canción o voz invitada",
+          "x": 8,
+          "y": 1,
+          "w": 4,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "songs-video-grid",
+          "type": "card_grid",
+          "label": "Videoteca",
+          "hint": "Cuadrícula responsive de 15 videos de YouTube con miniaturas y reproducción",
+          "x": 0,
+          "y": 3,
+          "w": 12,
+          "h": 10,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "songs-footer",
+          "type": "footer",
+          "label": "Contacto y redes",
+          "hint": "YouTube, WhatsApp, Ko-fi y navegación",
+          "x": 0,
+          "y": 13,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-d15d4491",
+      "name": "Lorenly",
+      "route": "/lorenly",
+      "item_ref": {
+        "index": 2,
+        "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+      },
+      "blocks": [
+        {
+          "id": "lorenly-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "lorenly-cover",
+          "type": "image",
+          "label": "Imagen de productora",
+          "hint": "Portada visual VOCALOID",
+          "x": 0,
+          "y": 1,
+          "w": 7,
+          "h": 5,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "lorenly-title",
+          "type": "text",
+          "label": "Productora VOCALOID",
+          "hint": "Primera productora VOCALOID peruana",
+          "x": 7,
+          "y": 1,
+          "w": 5,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "lorenly-profile",
+          "type": "text",
+          "label": "Perfil artístico",
+          "hint": "Estilo indie-folk, bancos de voz y trayectoria",
+          "x": 7,
+          "y": 3,
+          "w": 5,
+          "h": 3,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "lorenly-milestones",
+          "type": "text",
+          "label": "Hitos y colaboraciones",
+          "hint": "Concursos, UTAUVISION y VocaloP Hispanos",
+          "x": 0,
+          "y": 6,
+          "w": 8,
+          "h": 5,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "lorenly-profile-image",
+          "type": "image",
+          "label": "Retrato de Lorenly",
+          "hint": "Fotografía personal de apoyo",
+          "x": 8,
+          "y": 6,
+          "w": 4,
+          "h": 5,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "lorenly-footer",
+          "type": "footer",
+          "label": "Contacto y redes",
+          "hint": "Canales musicales y contacto directo",
+          "x": 0,
+          "y": 11,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-2c00d6a0",
+      "name": "Servicios",
+      "route": "/servicios",
+      "item_ref": {
+        "index": 2,
+        "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+      },
+      "blocks": [
+        {
+          "id": "services-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "services-title",
+          "type": "text",
+          "label": "Servicios musicales",
+          "hint": "Composición, arreglos, letras y producción",
+          "x": 0,
+          "y": 1,
+          "w": 8,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "services-contact",
+          "type": "text",
+          "label": "Contacto directo",
+          "hint": "Teléfono, correo y WhatsApp",
+          "x": 8,
+          "y": 1,
+          "w": 4,
+          "h": 3,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "services-list",
+          "type": "list",
+          "label": "Oferta profesional",
+          "hint": "Nueve servicios explicados con claridad",
+          "x": 0,
+          "y": 3,
+          "w": 7,
+          "h": 8,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "services-gallery",
+          "type": "card_grid",
+          "label": "Experiencia en escena",
+          "hint": "Fotografías de presentaciones y proyectos",
+          "x": 7,
+          "y": 4,
+          "w": 5,
+          "h": 6,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "services-cta",
+          "type": "text",
+          "label": "Solicitar un proyecto",
+          "hint": "Botones funcionales de correo y WhatsApp",
+          "x": 7,
+          "y": 10,
+          "w": 5,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "services-footer",
+          "type": "footer",
+          "label": "Contacto y redes",
+          "hint": "Datos de contacto y navegación",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-d2d03f88",
+      "name": "Tienda",
+      "route": "/tienda",
+      "item_ref": {
+        "index": 3,
+        "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+      },
+      "blocks": [
+        {
+          "id": "store-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "store-title",
+          "type": "text",
+          "label": "Tienda",
+          "hint": "Música de Lorenly en Bandcamp",
+          "x": 0,
+          "y": 1,
+          "w": 8,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "store-bandcamp-cta",
+          "type": "text",
+          "label": "Visitar Bandcamp",
+          "hint": "Acceso directo a la tienda externa",
+          "x": 8,
+          "y": 1,
+          "w": 4,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "store-track-1",
+          "type": "text",
+          "label": "Magnolia",
+          "hint": "Reproductor o enlace oficial de Bandcamp",
+          "x": 0,
+          "y": 3,
+          "w": 4,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "store-track-2",
+          "type": "text",
+          "label": "Cálida Esperanza",
+          "hint": "Reproductor o enlace oficial de Bandcamp",
+          "x": 4,
+          "y": 3,
+          "w": 4,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "store-track-3",
+          "type": "text",
+          "label": "Sí",
+          "hint": "Reproductor o enlace oficial de Bandcamp",
+          "x": 8,
+          "y": 3,
+          "w": 4,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "store-footer",
+          "type": "footer",
+          "label": "Contacto y apoyo",
+          "hint": "Bandcamp, Ko-fi y redes",
+          "x": 0,
+          "y": 8,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-a08d227e",
+      "name": "UTAU Silvana Aritani",
+      "route": "/utau-silvana-aritani",
+      "item_ref": {
+        "index": 3,
+        "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+      },
+      "blocks": [
+        {
+          "id": "utau-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-character",
+          "type": "image",
+          "label": "Ilustración oficial",
+          "hint": "Diseño de Silvana Aritani",
+          "x": 0,
+          "y": 1,
+          "w": 5,
+          "h": 7,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-title",
+          "type": "text",
+          "label": "Silvana Aritani",
+          "hint": "Cantante virtual UTAU",
+          "x": 5,
+          "y": 1,
+          "w": 7,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-stats",
+          "type": "table",
+          "label": "Ficha del personaje",
+          "hint": "Edad, especie, cumpleaños, altura, peso y símbolo",
+          "x": 5,
+          "y": 3,
+          "w": 7,
+          "h": 4,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-download",
+          "type": "text",
+          "label": "Descargar voicebank",
+          "hint": "Enlace gratuito VCCV Español",
+          "x": 5,
+          "y": 7,
+          "w": 7,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-story",
+          "type": "text",
+          "label": "Historia y personalidad",
+          "hint": "Trasfondo, habilidades y reglas de diseño",
+          "x": 0,
+          "y": 8,
+          "w": 7,
+          "h": 6,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-art",
+          "type": "card_grid",
+          "label": "Arte de la comunidad",
+          "hint": "Ilustraciones oficiales y colaboraciones",
+          "x": 7,
+          "y": 8,
+          "w": 5,
+          "h": 6,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-videos",
+          "type": "card_grid",
+          "label": "Canciones de Silvana",
+          "hint": "Cuatro videos asociados al voicebank",
+          "x": 0,
+          "y": 14,
+          "w": 12,
+          "h": 7,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "utau-footer",
+          "type": "footer",
+          "label": "Contacto y créditos",
+          "hint": "Créditos artísticos, contacto y navegación",
+          "x": 0,
+          "y": 21,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-cf30b07f",
+      "name": "Luminus Hearts",
+      "route": "/luminus-hearts",
+      "item_ref": {
+        "index": 3,
+        "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+      },
+      "blocks": [
+        {
+          "id": "luminus-nav",
+          "type": "nav",
+          "label": "Navegación principal",
+          "hint": "Menú completo del sitio",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "luminus-title",
+          "type": "text",
+          "label": "Luminus Hearts",
+          "hint": "Proyecto musical de Silvana Navarro y Renzo Pacheco",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "luminus-story",
+          "type": "text",
+          "label": "Historia y misión",
+          "hint": "Origen, espiritualidad y propuesta musical",
+          "x": 0,
+          "y": 3,
+          "w": 7,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "luminus-members",
+          "type": "list",
+          "label": "Integrantes e instrumentos",
+          "hint": "Silvana Navarro, Renzo Pacheco y Josseline García",
+          "x": 7,
+          "y": 3,
+          "w": 5,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "luminus-audio",
+          "type": "text",
+          "label": "Los Siete Espíritus",
+          "hint": "Suite soundtrack en SoundCloud",
+          "x": 0,
+          "y": 8,
+          "w": 8,
+          "h": 4,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "luminus-soundcloud",
+          "type": "text",
+          "label": "Seguir en SoundCloud",
+          "hint": "Enlace al perfil oficial del proyecto",
+          "x": 8,
+          "y": 8,
+          "w": 4,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "luminus-footer",
+          "type": "footer",
+          "label": "Contacto y redes",
+          "hint": "Enlaces musicales y navegación",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    }
+  ],
+  "attached_to_plan": false
+}

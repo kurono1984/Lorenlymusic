@@ -1,0 +1,5 @@
+## Migración de Lorenly Music a Reflex
+- [x] Recrear la portada y la política de privacidad con navegación compartida, biografía, premio MIKU EXPO, fotografías, reproductores y contactos; mantener una identidad escénica inspirada en el sitio original con rojo coral, negro, blanco, tipografía editorial y fotografía de la artista como pieza central.
+- [x] Construir Música y Canciones con los catálogos completos organizados por categoría, búsqueda y filtros ligeros, además de una galería responsive de videos con carga diferida.
+- [x] Construir Lorenly y Servicios con la biografía de productora VOCALOID, trayectoria, imágenes, oferta profesional y llamadas funcionales a teléfono, correo y WhatsApp.
+- [x] Construir Tienda, UTAU Silvana Aritani y Luminus Hearts con reproductores/enlaces externos, perfil y ficha del personaje, descarga del voicebank, videos, historia del dúo, contacto, Ko-fi y pies de página coherentes.
